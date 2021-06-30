@@ -14,6 +14,9 @@ Familiar with DBMS including MySQL, SQL Server and Oracle.
 
 - Learning App Development in Android using Android Studion (Java & Kotlin)
 
+- You can see and download all my projects:
+- My Crypto App (Android App Development in Android Studion with Kotlin)  #Android Development
+
 <!---
 xhiti/xhiti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
