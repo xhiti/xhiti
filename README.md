@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xhiti.
+- 👋 Hi, I’m **@xhiti**.
 
 - 👨 My name is Mexhit Kurti. I am a Full Stack Developer, and I'm very passionate and dedicated to my work. 
 With 3 years of experience as a professional Full-Stack Developer, I have acquired the skills and knowledge necessary to make your project a success. 
@@ -15,7 +15,7 @@ Familiar with DBMS including MySQL, SQL Server and Oracle.
 
 - 🆕 Learning App Development in Android using Android Studion (Java & Kotlin)
 
-- You can see and download all my projects:
+- **You can see and download all my projects or you can follow the tutorials:**
 - 1. My Crypto App (Android App Development in Android Studion with Kotlin)  #Android Development
 - 2. Cryptocurrency Predicting - Deep Learning & Python (TensorFlow & Keras) #Artificial Intelligence #Machine Learning
 
