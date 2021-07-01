@@ -16,7 +16,9 @@ Familiar with DBMS including MySQL, SQL Server and Oracle.
 - 🆕 Learning App Development in Android using Android Studion (Java & Kotlin)
 
 - **You can see and download all my projects or you can follow the tutorials:**
+  
   Don't  forget to use credits to me to not have problems with authority
+  
   1. My Crypto App (Android App Development in Android Studion with Kotlin)  #Android Development
   2. Cryptocurrency Predicting - Deep Learning & Python (TensorFlow & Keras) #Artificial Intelligence #Machine Learning
   3. Analyzing NYC Taxi Trips Data - Big Data & Hadoop (Sandbox) #Linux
