@@ -17,7 +17,7 @@ Familiar with DBMS including MySQL, SQL Server and Oracle.
 
 - **You can see and download all my projects or you can follow the tutorials:**
   
-  Don't  forget to use credits to me to not have problems with authority
+  Don't  forget to give credits to me jwhen using my projects to not have problems with authority.
   
   1. My Crypto App (Android App Development in Android Studion with Kotlin)  #Android Development
   2. Cryptocurrency Predicting - Deep Learning & Python (TensorFlow & Keras) #Artificial Intelligence #Machine Learning
