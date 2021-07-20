@@ -8,7 +8,7 @@ I enjoy every step of the design process, from discussion and collaboration to c
 Exploration, pursuit and motivation are my frameworks for success. I believe that fresh perspectives and trying new techniques help businesses evolve and grow. 
 My goal is to be on the cutting-edge of industry advancements.
 
-- 😄 Knowledge and experienced with programming languages like JAVA & Python including frameworks Spring & Hibernate, aslo knowledge in PHP.
+- 😄 Knowledge and experienced with programming languages like Java & Python including frameworks Spring & Hibernate, also knowledge in PHP.
 Familiar with DBMS including MySQL, SQL Server and Oracle.
 
 - 🔥 Good knowledges in Big Data & Machine Learning. 
