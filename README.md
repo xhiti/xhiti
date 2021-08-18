@@ -27,7 +27,7 @@ Familiar with DBMS including MySQL, SQL Server and Oracle.
   6. Arena Center Static Website    - HTML, CSS, JavaScript, JQuery, Bootstrap                #Web Development #Web Design
   7. AlbaGame Datawarehouse         - Creating a full datawarehouse with SQL Server           #SQL Server #Database
   8. ElectroShop eCommerce          - Python - Django Framework & SQLite                      #Web Programming
-  9. CryptoCoin Ecosystem           - Python & REact JS                                       #Blockchain Programming
+  9. CryptoCoin Ecosystem           - Python & React JS                                       #Blockchain Programming
 
 <!---
 xhiti/xhiti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
