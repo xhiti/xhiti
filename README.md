@@ -8,7 +8,7 @@ I enjoy every step of the design process, from discussion and collaboration to c
 Exploration, pursuit and motivation are my frameworks for success. I believe that fresh perspectives and trying new techniques help businesses evolve and grow. 
 My goal is to be on the cutting-edge of industry advancements.
 
-- 😄 Knowledge and experienced with programming languages like Java - including frameworks Spring & Hibernate, & Python including Django framework and also good knowledges in PHP.
+- 😄 Knowledge and experienced with programming languages like Java - including frameworks Spring & Hibernate, & Python including Django framework & Django Rest framework and also good knowledges in PHP.
 Familiar with DBMS including MySQL, SQL Server and Oracle.
 
 - 🔥 Good knowledges in Big Data, Data Science & Machine Learning. 
@@ -27,6 +27,7 @@ Familiar with DBMS including MySQL, SQL Server and Oracle.
   6. Arena Center Static Website    - HTML, CSS, JavaScript, JQuery, Bootstrap                #Web Development #Web Design
   7. AlbaGame Datawarehouse         - Creating a full datawarehouse with SQL Server           #SQL Server #Database
   8. ElectroShop eCommerce          - Python - Django Framework & SQLite                      #Web Programming
+  9. CryptoCoin Ecosystem           - Python & REact JS                                       #Blockchain Programming
 
 <!---
 xhiti/xhiti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
