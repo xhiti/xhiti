@@ -14,6 +14,7 @@ Familiar with DBMS including MySQL, SQL Server and Oracle.
 - 🔥 Good knowledges in Big Data, Data Science & Machine Learning. 
 
 - 🆕 Learning App Development in Android using Android Studion (Java & Kotlin)
+- 🆕 & 🔥 Blockchain Programming using Python
 
 - **You can see and download all my projects or you can follow the tutorials:**
   
