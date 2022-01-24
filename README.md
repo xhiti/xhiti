@@ -9,7 +9,7 @@ Exploration, pursuit and motivation are my frameworks for success. I believe tha
 My goal is to be on the cutting-edge of industry advancements.
 
 - 😄 Knowledge and experienced with programming languages like Java - including frameworks Spring & Hibernate, & Python including Django framework & Django Rest framework, ORM and also good knowledges in PHP.
-Familiar with DBMS including MySQL, SQL Server and Oracle.
+Familiar with DBMS including PostgreSQL, MySQL, SQL Server and Oracle.
 
 - 🔥 Good knowledges in Big Data, Data Science & Machine Learning. 
 
