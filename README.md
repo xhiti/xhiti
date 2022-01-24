@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **@xhiti**.
 
 - 👨 My name is Mexhit Kurti. I am a Full Stack Engineer, and I'm very passionate and dedicated to my work. 
-With 3 years of experience as a professional Full-Stack Developer, I have acquired the skills and knowledge necessary to make your project a success. 
+With 4 years of experience as a professional Full-Stack Developer, I have acquired the skills and knowledge necessary to make your project a success. 
 I enjoy every step of the design process, from discussion and collaboration to concept and execution, but I find the most satisfaction in seeing the finished product do everything for you that it was created to do.
 
 - 🎯 Identifying improved approaches and enhanced solutions to business challenges are activities that drive and inspire me. 
@@ -27,7 +27,7 @@ Familiar with DBMS including MySQL, SQL Server and Oracle.
   5. BookStore eCommerce            - Java, Spring & Hibernate with MySQL                     #Web Programming #Web Development
   6. Arena Center Static Website    - HTML, CSS, JavaScript, JQuery, Bootstrap                #Web Development #Web Design
   7. AlbaGame Datawarehouse         - Creating a full datawarehouse with SQL Server           #SQL Server #Database
-  8. ElectroShop eCommerce          - Python - Django Framework & SQLite                      #Web Programming
+  8. ElectroShop eCommerce          - Python - Django Framework & SQLite/PostgreSQL           #Web Programming
   9. CryptoCoin Ecosystem           - Python & React JS                                       #Blockchain Programming
 
 <!---
