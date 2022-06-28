@@ -1,7 +1,4 @@
-- 👋 Hi, I’m **@xhiti**.
-
-- @payever developer
-- @speechly developer
+- 👋 Hi, I’m **@xhiti** (@payever developer, @speechly developer).
 
 - 👨 My name is Mexhit Kurti. I am a Full Stack Engineer, and I'm very passionate and dedicated to my work. 
 With 4 years of experience as a professional Full-Stack Developer, I have acquired the skills and knowledge necessary to make your project a success. 
