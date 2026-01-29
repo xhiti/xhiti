@@ -1,23 +1,50 @@
-- 👋 Hi, I’m **@xhiti** (@payever developer).
+# 👋 Hi, I'm Mexhit Kurti (@xhiti)
+### Senior Full Stack Engineer | Python & React Specialist
 
-- 👨 My name is Mexhit Kurti. I am a Full Stack Engineer, and I'm very passionate and dedicated to my work. 
-With 6 years of experience as a professional Full-Stack Developer, I have acquired the skills and knowledge necessary to make your project a success. 
-I enjoy every step of the design process, from discussion and collaboration to concept and execution, but I find the most satisfaction in seeing the finished product do everything for you that it was created to do.
+I am a dedicated **Senior Full Stack Engineer** with over 6 years of professional experience. My career is defined by a passion for architectural integrity and a drive to solve complex business challenges through elegant code. Currently, I am contributing my expertise at **@payever**.
 
-- 🎯 Identifying improved approaches and enhanced solutions to business challenges are activities that drive and inspire me. 
-Exploration, pursuit and motivation are my frameworks for success. I believe that fresh perspectives and trying new techniques help businesses evolve and grow. 
-My goal is to be on the cutting-edge of industry advancements.
+---
 
-- 😄 Knowledge and experienced with programming languages like Java - including frameworks Spring & Hibernate, & Python including Django framework & Django Rest framework, ORM and also good knowledges in PHP. Currently full-stack engineer working with Python & React.
-Familiar with DBMS including PostgreSQL, MySQL, SQL Server and Oracle.
+### 👨‍💻 Professional Profile
+* **Experience:** 6+ years of building scalable web applications.
+* **Philosophy:** I believe in "Clean Code" and "Fresh Perspectives." I find the most satisfaction in seeing a finished product streamline a user's life.
+* **Drive:** I thrive on identifying improved approaches and staying on the cutting edge of industry advancements.
 
-- 🔥 Good knowledges in Big Data, Data Science & Machine Learning. 
+---
 
-- 🆕 Learning App Development in Android using Android Studio: Java, Kotlin & Flutter, Dart
-- 🆕 & 🔥 Blockchain Programming (just started)
+### 🛠️ Technical Stack
 
-<!---
-xhiti/xhiti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java, PHP, JavaScript, SQL |
+| **Backend** | Django & DRF, Spring Boot, Hibernate |
+| **Frontend** | React, HTML5, CSS3, Modern JS (ES6+) |
+| **Databases** | PostgreSQL, MySQL, SQL Server, Oracle |
+| **Data Science** | Big Data, Machine Learning, Data Analysis |
+| **Learning** | Blockchain, Flutter/Dart, Kotlin |
 
+---
+
+### 📈 GitHub Ecosystem
+![Mexhit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xhiti&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xhiti&layout=compact&theme=tokyonight)
+
+---
+
+### 🚀 Recent Focus
+* **Enterprise Solutions:** Developing high-traffic e-commerce and fintech tools.
+* **Mobile Development:** Expanding my toolkit with Android Studio (Java/Kotlin) and Flutter.
+* **Web3:** Exploring the architecture of Blockchain programming.
+
+---
+
+### 📫 Let's Connect
+* **LinkedIn:** [Your LinkedIn Profile Link]
+* **Portfolio:** [Your Website Link]
+* **Work:** [payever.de](https://payever.de)
+
+---
+
+<p align="center">
+  <i>"Exploration, pursuit, and motivation are my frameworks for success."</i>
+</p>
