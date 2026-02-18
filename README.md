@@ -1,4 +1,4 @@
-# 0xMexhit · Senior Full Stack Engineer 
+# Mexhit Kurti · Senior Full Stack Engineer 
 ### { Senior Software Engineer | Systems Thinker | Product Builder }
 
 <p align="left">
