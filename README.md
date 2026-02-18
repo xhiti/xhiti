@@ -1,132 +1,66 @@
-<div align="center">
+# 0xMexhit · Senior Full Stack Engineer 
+### { Senior Software Engineer | Systems Thinker | Product Builder }
 
-# 👋 Mexhit Kurti  
-### Senior Full Stack Engineer · Product Builder · Systems Thinker  
-
-<img src="https://komarev.com/ghpvc/?username=xhiti&style=flat-square&color=grey" />
-
-</div>
-
----
-
-## 🧠 About Me
-
-Senior Full Stack Engineer with **6+ years of professional experience** building scalable web and mobile systems.  
-I focus on **robust backend architecture**, **clean APIs**, and **modern, performant frontends**.
-
-I enjoy working across the entire product lifecycle—from system design and data modeling to UI execution and deployment.  
-My approach combines **engineering discipline**, **product thinking**, and **continuous improvement**.
+<p align="left">
+  <img src="https://img.shields.io/badge/6+_Years_Experience-0A3F86?style=for-the-badge&logo=expert&logoColor=white" />
+  <img src="https://img.shields.io/badge/Main_Stack-TypeScript_%2F_Python-0A3F86?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-Clean_%2F_Modular-0A3F86?style=for-the-badge" />
+</p>
 
 ---
 
-## ⚡ Core Focus
+## ⚡ Executive Summary
+Senior Full Stack Engineer with a focus on building **scalable backend architectures** and **high-performance frontend systems**. I bridge the gap between engineering discipline and product-driven decisions. Specialist in Python (FastAPI/Django) and the modern JS ecosystem.
 
-- Scalable backend systems & API design  
-- Clean, maintainable frontend architectures  
-- Performance, reliability & data integrity  
-- Business-driven engineering decisions  
-- AI, automation & intelligent systems  
-
----
-
-## 🛠 Tech Stack
-
-### Backend
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/Django-000?style=flat-square&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi)
-![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/Spring-000?style=flat-square&logo=spring)
-
-### Frontend
-![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle-000?style=flat-square&logo=oracle)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
+- 🏗️ **Core Philosophy:** Product-first mindset, strong abstractions, and long-term scalability.
+- 🧪 **Current R&D:** Multi-agent AI prompt graphs & Web3 fundamentals.
+- 🌍 **Language Support:** Internationalization (i18n) & Multi-theme (Dark/Light) expert.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Digital Factory (Tech Stack)
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend & Core** | `Python` `Django` `FastAPI` `Node.js` `Celery` `Go` |
+| **Frontend & Mobile**| `React` `Next.js` `TypeScript` `React Native` `Expo` `shadcn/ui` `Radix UI` |
+| **Data Architecture**| `PostgreSQL` `Redis` `MongoDB` `Data Modeling` `Poisson Models` |
+| **Cloud & DX** | `Docker` `GitHub Actions` `AWS` `Vercel` `CI/CD Pipelines` |
+
+---
+
+## 🚀 Architectural Showcases (Featured Projects)
 
 ### ⚽ Football Prediction Platform
-**FastAPI · Celery · PostgreSQL · React · ML**
+> **Architecture:** FastAPI • Celery • PostgreSQL • ML Integration
+- Engineered an **Async Data Ingestion** engine using API-Football.
+- Implemented **Poisson & Dixon-Coles** statistical models for predictive analytics.
+- Built a real-time live dashboard with background processing for high-volume data streams.
 
-- Async data ingestion using **API-Football**
-- Poisson & **Dixon-Coles prediction models**
-- REST API + Live Dashboard + Mobile App
-- Background task processing with Celery
-- Designed for real-time & high-volume data
+### 🤖 AI Code Review & PR Agent
+> **Architecture:** Multi-agent LLM System • Python • GitHub API
+- Designed a **prompt graph system** for context-aware code analysis.
+- Risk-based analysis engine focusing on repository context learning and caching.
+- Integrated as a SaaS-ready GitHub App.
 
----
-
-### 🍽️ Restaurant Boost & Discovery System
-**Django REST · React · PostgreSQL**
-
-- Smart restaurant ranking & promotion logic
-- Location-based filtering & analytics
-- Admin dashboards for performance insights
-- API-first architecture for web & mobile
+### 🍽️ Restaurant Discovery Engine
+> **Architecture:** Django REST Framework • PostgreSQL • Geolocation
+- Developed complex **ranking & promotion logic** based on location-aware analytics.
+- Built an API-first architecture serving both web and mobile consumers seamlessly.
 
 ---
 
-### 🤖 AI Code Review & PR Analysis Platform
-**LLM Agents · GitHub Integration**
-
-- Multi-agent AI prompt graph system
-- Language-aware & risk-based code analysis
-- Repository context learning & caching
-- Built as API, GitHub App & SaaS-ready platform
-
----
-
-### ✈️ Limonade Travel App
-**React Native (Expo) · Django REST**
-
-- Modern authentication & onboarding flow
-- Multi-language & dark/light mode support
-- Premium UI with animations
-- Scalable member-based auth system
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=xhiti&show_icons=true&hide_border=true&theme=transparent" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=xhiti&hide_border=true&theme=transparent" height="160" />
-
-</div>
-
----
-
-## 🧪 Currently Exploring
-
-- 📱 Mobile Development (Kotlin, Flutter, Dart)
-- 🔗 Blockchain & Web3 fundamentals
-- 🤖 AI agents & intelligent automation
-
----
-
-## 🎯 Engineering Philosophy
-
-- Product-first mindset  
-- Clean code & strong abstractions  
-- Long-term scalability over shortcuts  
-- Continuous learning & innovation  
-
----
-
-<div align="center">
-
-**Let’s build systems that scale and products that matter.**
-
-</div>
+## 🧪 Current Research & Engineering
+```json
+{
+  "learning_path": {
+    "mobile": ["Kotlin", "Flutter", "Dart"],
+    "web3": ["Solidity", "Blockchain Fundamentals"],
+    "ai": ["Autonomous Agents", "Intelligent Automation"]
+  },
+  "operating_principles": [
+    "Clean code over clever code",
+    "Data integrity is non-negotiable",
+    "UI/UX is a functional requirement, not a polish"
+  ]
+}
